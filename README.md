@@ -1,8 +1,13 @@
-Reduxstagram is an application developed in ReactJS and Redux
+# Reduxstagram
 
-To run this app please follow the steps below:
+A ReactJS and Redux implementation.
 
-1) Download/Clone the project to your local
-2) Open the terminal (on the folder you downloaded/cloned the files)
-3) Install the node_modules dependencies: npm install
-4) Start the local dev app: npm start
+## Running
+
+First `npm install` to grab all the necessary dependencies. 
+
+Then run `npm start` and open <localhost:7770> in your browser.
+
+## Production Build
+
+Run `npm build` to create a distro folder and a bundle.js file.
